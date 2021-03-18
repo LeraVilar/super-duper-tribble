@@ -1,0 +1,22 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <radialGradient gradientTransform="rotate(-90,0.8359375,0.5859375) translate(0,0.09375000000000001) scale(1,0.84)" r="0.47878" cy="0" cx="0" spreadMethod="pad" id="svg_9">
+   <stop offset="0" stop-color="#b36c5a"/>
+   <stop offset="1" stop-color="#4c93a5"/>
+  </radialGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="#F2EFEA" id="canvas_background" height="602" width="802" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <ellipse stroke="#000" fill-opacity="0" stroke-dasharray="5,2,2,2,2,2" ry="289.5" rx="289.5" id="svg_1" cy="300.95314" cx="411.00002" stroke-width="20" fill="url(#svg_9)"/>
+  <text stroke="#000" transform="matrix(8.655066850418564,0,0,10.060014646928687,-2581.8036398561253,-1808.6903771656719) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_2" y="218.06593" x="317.99187" stroke-dasharray="5,2,2,2,2,2" stroke-width="0" fill="#546054">Eger'</text>
+  <path id="svg_6" d="m298.5,199.45313" opacity="0.5" fill-opacity="0.69" stroke-opacity="null" stroke-dasharray="5,2,2,2,2,2" stroke-width="20" stroke="#000" fill="#fff"/>
+ </g>
+</svg>

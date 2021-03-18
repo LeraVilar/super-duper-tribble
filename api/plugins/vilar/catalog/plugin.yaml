@@ -1,0 +1,16 @@
+plugin:
+    name: 'vilar.catalog::lang.plugin.name'
+    description: 'vilar.catalog::lang.plugin.description'
+    author: Vilar
+    icon: oc-icon-shopping-cart
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Catalog
+        url: vilar/catalog/catalog
+        icon: icon-shopping-cart
+        sideMenu:
+            side-menu-item:
+                label: Category
+                url: vilar/catalog/category
+                icon: icon-sort-alpha-asc

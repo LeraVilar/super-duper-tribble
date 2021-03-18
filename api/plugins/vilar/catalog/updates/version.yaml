@@ -1,0 +1,71 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table vilar_catalog_'
+    - builder_table_create_vilar_catalog_.php
+1.0.3:
+    - 'Updated table vilar_catalog_'
+    - builder_table_update_vilar_catalog_.php
+1.0.4:
+    - 'Updated table vilar_catalog_'
+    - builder_table_update_vilar_catalog_items.php
+1.0.5:
+    - 'Updated table vilar_catalog_items'
+    - builder_table_update_vilar_catalog__2.php
+1.0.6:
+    - 'Updated table vilar_catalog_'
+    - builder_table_update_vilar_catalog__3.php
+1.0.7:
+    - 'Updated table vilar_catalog_'
+    - builder_table_update_vilar_catalog__4.php
+1.0.8:
+    - 'Updated table vilar_catalog_'
+    - builder_table_update_vilar_catalog__5.php
+1.0.9:
+    - 'Updated table vilar_catalog_'
+    - builder_table_update_vilar_catalog__6.php
+1.0.10:
+    - 'Updated table vilar_catalog_'
+    - builder_table_update_vilar_catalog__7.php
+1.0.11:
+    - 'Created table vilar_catalog_category'
+    - builder_table_create_vilar_catalog_category.php
+1.0.12:
+    - 'Created table vilar_catalog_and_category'
+    - builder_table_create_vilar_catalog_and_category.php
+1.0.13:
+    - 'Updated table vilar_catalog_'
+    - builder_table_update_vilar_catalog__8.php
+1.0.14:
+    - 'Updated table vilar_catalog_'
+    - builder_table_update_vilar_catalog__9.php
+1.0.15:
+    - 'Updated table vilar_catalog_'
+    - builder_table_update_vilar_catalog__10.php
+1.0.16:
+    - 'Updated table vilar_catalog_'
+    - builder_table_update_vilar_catalog__11.php
+1.0.17:
+    - 'Updated table vilar_catalog_'
+    - builder_table_update_vilar_catalog__12.php
+1.0.18:
+    - 'Updated table vilar_catalog_'
+    - builder_table_update_vilar_catalog__13.php
+1.0.19:
+    - 'Updated table vilar_catalog_'
+    - builder_table_update_vilar_catalog__14.php
+1.0.20:
+    - 'Updated table vilar_catalog_'
+    - builder_table_update_vilar_catalog__15.php
+1.0.21:
+    - 'Updated table vilar_catalog_category'
+    - builder_table_update_vilar_catalog_category.php
+1.0.22:
+    - 'Updated table vilar_catalog_category'
+    - builder_table_update_vilar_catalog_category_2.php
+1.0.23:
+    - 'Updated table vilar_catalog_'
+    - builder_table_update_vilar_catalog__16.php
+1.0.24:
+    - 'Updated table vilar_catalog_'
+    - builder_table_update_vilar_catalog__17.php

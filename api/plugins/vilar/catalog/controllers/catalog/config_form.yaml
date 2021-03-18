@@ -1,0 +1,10 @@
+name: Catalog
+form: $/vilar/catalog/models/catalog/fields.yaml
+modelClass: Vilar\Catalog\Models\Catalog
+defaultRedirect: vilar/catalog/catalog
+create:
+    redirect: 'vilar/catalog/catalog/update/:id'
+    redirectClose: vilar/catalog/catalog
+update:
+    redirect: vilar/catalog/catalog
+    redirectClose: vilar/catalog/catalog

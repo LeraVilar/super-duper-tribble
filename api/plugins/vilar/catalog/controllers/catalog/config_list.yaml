@@ -1,0 +1,12 @@
+list: $/vilar/catalog/models/catalog/columns.yaml
+modelClass: Vilar\Catalog\Models\Catalog
+title: Catalog
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+recordsPerPage: 20
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'vilar/catalog/catalog/update/:id'
